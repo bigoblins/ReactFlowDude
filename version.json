@@ -1,6 +1,6 @@
 {
   "api": "1.5.10",
-  "web": "0.91.06",
+  "web": "0.91.07",
   "releaseDate": "2026-05-20",
   "artifacts": {
     "dockerArchive": "flownms-1.5.10-images.tar.gz"
